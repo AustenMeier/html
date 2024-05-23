@@ -4,7 +4,7 @@
 
 ### Negatives
 1. Under the Html Attributes it mentions the opening tag you might give a breif explaination of them there
-2. for the &lt;img&gt; and &lta&gt when I was doing the project I wasn't entirly sure of the attribute used with for the &lt;img&gt; it was src and href for the &lt;a&gt;
+2. for the &lt;img&gt; and &lt;a&gt; when I was doing the project I wasn't entirly sure of the attribute used with for the &lt;img&gt; it was src and href for the &lt;a&gt;
 3. When you show the example for using Semantic Elements you might add a some more comments about what you're doing in the example
 
 ### Positives
