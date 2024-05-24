@@ -1,6 +1,6 @@
 # html course
 
-## Section One Review
+## Section 1 Review
 
 ### Negatives
 1. Under the Html Attributes it mentions the opening tag you might give a breif explaination of them there
@@ -12,7 +12,7 @@
 2. The course covered some very important begining subject for html like attributes inline vs block and even mentioned where to code html(HTML Editors and Tools)
 3. The examples were really good and fairly easy to understand
 
-## Section Two Review
+## Section 2 Review
 
 ### Negatives
 1. Before explaing why to use Semantic HTML you should have a section that explains in a little more detail what it is
@@ -27,7 +27,7 @@
 3. Explaining why to use semantic HTML and what it does was a great idea
 4. I liked how some things kind of built off of section 1
 
-## Section Two Review
+## Section 3 Review
 
 ### Negatives
 1. I think you forgot to mention that you can use &ltu&gt to generate underlined text 
@@ -43,3 +43,14 @@
 3. I liked the tips for lists and tables it'd be cool if you can fit that into other sections too
 4. I liked how the project included things from previous projects
 
+## Section 4 Review
+
+### Negatives
+1. Instead of just showin an example of a form you should go into more detail about what each attribute and element does
+2. Probably leave out the javascript in this section also in the exercise you said to use javacript but I didn't see any in your example 
+3. You should add a little more requirements in the exercise so the final version would have to look more like a webpage to meet the requirements
+
+### Positives
+1. structrued is nice and short 
+2. It goes over imprtant atributes and User input elements 
+3. Tries to build off from other sections
