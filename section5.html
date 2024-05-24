@@ -1,11 +1,91 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+   <title>Hello World</title>
+   <meta name="description" content="This is a Comprehensive web page"/>
+   <meta name = "keywords" content="HTML Basics and Document Structure, Semantic HTML and Advanced Layout Techniques, Text Formatting, Lists, and Tables,
+   HTML Forms and User, Embedding Multimedia, SEO and ARIA Roles"/>
 </head>
 <body>
-    
+   <header role="banner">
+       <h1>Hello World</h1>
+       <nav role="navigation">
+           <ul>
+               <li><a href="index.html">Home Page</a>
+               <li><a href="section1.html">section1</a>
+               <li><a href="section2.html">section2</a>
+               <li><a href="section4.html">section4</a>
+               <li><a href="section5.html">section5</a>
+           </ul>
+       </nav>
+   </header>
+   <main role="main">
+       <section>
+           <article>
+               <h1>Hello World</h1>
+               <strong>My name is Austen Meier</strong>
+           </article>
+       </section>
+       <section>
+           <table border="1">
+               <thead>
+                   <th>Column 1</th>
+                   <th>Column 2</th>
+                   <th>Column 3</th>
+               </thead>
+               <tbody>
+                   <tr>
+                       <td>Row 1, Cell 1</td>
+                       <td>Row 1, Cell 2</td>
+                       <td>Row 1, Cell 3</td>
+                   </tr>
+                   <tr>
+                       <td>Row 2, Cell 1</td>
+                       <td>Row 2, Cell 2</td>
+                       <td>Row 2, Cell 3</td>
+                   </tr>
+               </tbody>
+               <tfoot>
+                   <tr>
+                       <td colspan="3">Table Footer</td>
+                   </tr>
+               </tfoot>
+           </table>
+           <ul>
+               <li>Item 1</li>
+               <li>Item 2</li>
+               <li>Item 3</li>
+           </ul>
+       </section>
+       <section>
+       <aside>
+           <h1>Some related content</h1>
+           <em>I built this page using...</em>
+           <u>HTML</u>
+       </aside>
+   </section>
+   <section>
+       <h2>Fill out this form</h2>
+       <Form action="sumbit.php" method="post" id="myForm">
+        <label for="name">Name:</label>
+        <input type=""text" id=""name" name=""name required /><br />
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required /><br />
+        <label for="Age">Age:</label>
+        <input type="number" id="age" name="age" min="16" max="100" required /><br />
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" name="phone" pattern="[0-9]{3}[0-9]{3}[0-9]{4}"  title="please add your area code." required /><br/>
+        <label for="comment">Comment:</label>    
+        <textarea id="comment" name="comment" rows="4" required></textarea>
+
+        <input type="sumbit" value="Sumbit" />
+   </section>
+   <section>
+        <figure>
+    <img src="image.png" alt="Picture" width="300" height="200"/>
+            <figcaption>Figure 1: here's a picture of code</figcaption>
+        </figure>
+   </section>
+       <footer role="contentInfo">@ 2024 Austen's Website</footer>
+   </main>
 </body>
-</html>

@@ -1,5 +1,21 @@
 # html course
 
+## Html course Review
+
+## negatives
+1. I don't think there's enough exercises in the course maybe add some little exercies throughout the section for some practice
+2. There's not alot of content for the html course it'd be cool if it was a little more detailed and the sections were a bit longer
+3. it feels like around section 3 there's not alot of explainations of what does what it's more like just examples but that get's better again in section five when you start talking about SEO and Metadata
+4. there were some things that the course assumed they already knew I think you fixed some of them one of them was Javascript it was mentioned you could use it in html in section 4 but never went into any kind of detail on how to use it then required it in the project  
+
+
+## Positives
+1. Section 2 was one of my favorite sections because of how it explained things and how it kind of built off from section 1
+2. the sections try to build off of eachother 
+3. It has enough information that by the end of it you should have atleast begginer knowledge of html
+4. the site its written in almost all html which mathces theme and is kind of cool
+5. the course has a Glossary
+
 ## Section 1 Review
 
 ### Negatives
@@ -54,3 +70,18 @@
 1. structrued is nice and short 
 2. It goes over imprtant atributes and User input elements 
 3. Tries to build off from other sections
+
+## Section 5 Review
+
+### Negatives
+1. Under Multimedia some more description of what's going on in the examples would be cool
+2. you should mention how to get different kinds of multimedia to use for html 
+2. I feel like a deeper explaination of SEO, Metadata and ARIA would benifit the course
+3. In the exercise you could probably just say Embedding Multimedia instead of Embedding Multimedia from Section 5
+
+
+### Positives
+1. structrued really well
+2. It goes over ARIA Roles, SEO and Metadata along with multimedia elements which are important concepts to html
+3. The exercise reviews all of the sections and has you practice with what's taught in the current section
+4. I liked how SEO, Metadata and ARIA Roles was explained with the examples and a description of the elements but a deeper explaination of it would be cool 
