@@ -37,7 +37,7 @@
 2. In the project you should have them use &lt;section&gt; to along with the other html tags
 3. I think one was more my bad but when I was doing the project I used the &lt;li&gt; wrong...  I'll put an example here below
 
- ![alt text](image.png)
+ ![alt text](Pictures\image.png)
 
 ### Positives
 1. Again from 1 and 2 structrued really well and goes over an important concept to html(Semantic HTML)
